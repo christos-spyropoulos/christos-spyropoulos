@@ -3,6 +3,7 @@
 PhD candidate in Sports Analytics at the University of Piraeus. I work on cross-league player evaluation, roster optimisation and match/season simulation in basketball and football, and I build LLM-assisted data pipelines and dashboards.
 
 **Interests:** recruitment analytics · league strength · MILP roster building · Monte Carlo simulation · LLM-assisted analytics
+
 **Tools:** Python (pandas, scikit-learn, PuLP, XGBoost) · SQL · LLMs (Claude) · event and box-score data
 
 #### Projects
